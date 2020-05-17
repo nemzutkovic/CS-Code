@@ -14,3 +14,6 @@ Introduction to the design and implementation of abstract data types and to comp
 ## Compiling & Running
 * `javac <java-file>`  
 * `java <class-file>`
+
+## Other
+The midterm pages are full scans despite how GitHub displays them on the web page.

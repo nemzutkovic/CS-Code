@@ -34,4 +34,4 @@ Introduction to Internet application development; emphasis on computer science f
   - userid: 2406A
   - password: fall2017
 * Follows similar userid/password sequence for other years taught.
-* Dependencies change over time quickly so please be aware that there may be deprecated modules.
+* Third-party dependencies change over time quickly so please be aware that some may be deprecated. 
