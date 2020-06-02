@@ -1,5 +1,5 @@
 INFO:
-Name: Nemanja Zutkovic
+Name: Nem Zutkovic
 Student #: 101085982
 Recommended OS: Windows 10
 Recommended Browser: Google Chrome
